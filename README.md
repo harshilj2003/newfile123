@@ -1,4 +1,5 @@
 | type          | content   |
 | ------------- | --------- |
-| name          | Joshi, Harshil |
+| firstname     | Harshil |
+| surname       | Joshi |
 | study field   | MSc Mechanical Engineering |
